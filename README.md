@@ -34,5 +34,5 @@ Developed a **matlab** machine learning model for detecting pneumonia viral in c
 - Best graduating student (2021) - University of Ilorin, Kwara
 - Best Graduating Student (Mathematics) - Elias International Secondary School
 
-## Article and write-up
+## Article and write-ups
 - [Medium](https://medium.com/@razaqayoola09)
