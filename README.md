@@ -23,7 +23,7 @@
 ## Projects
 ### Data Science and Application - Integrating speech-enabled services in Third party applications
 
-The project made use of the Whisper small model to train and fine-tune a custom ASR model, which was evaluated under different conditions to ensure its reliability and robustness. All project objectives were achieved with the use of **PyTorch**, **HTML**, **CSS** and **Javascript** to implement the web interface and build a backend that allows the third party(banking web page) access to the built speech recognition system.
+The project made use of the Whisper model to train and fine-tune a custom ASR model, which was evaluated under different conditions to ensure its reliability and robustness. All project objectives were achieved with the use of **PyTorch**, **HTML**, **CSS** and **Javascript** to implement the web interface and build a backend that allows the third party(banking web page) access to the built speech recognition system.
 
 ### Pneumonia-virus Detection and Analysis in Chest X-ray of COVID-19 Images Using Machine Learning Techniques
 
