@@ -5,7 +5,7 @@
 [LinkedIn](https://www.linkedin.com/in/ayoola-razaq-b39b6b181/)
 
 ## Education
-- M.S., Data Science | University of Roehampton (October 2024)
+- M.S., Data Science | University of Roehampton (November 2024)
 - B.S., Statistics | University of illorin (June 2020)
 - N.D., Metallurgical Engineering | Yaba college of technology (May 2015)
 
