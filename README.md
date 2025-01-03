@@ -23,11 +23,15 @@
 ## Projects
 ### Data Science and Application - Integrating speech-enabled services in Third party applications
 
-The project made use of the Whisper model to train and fine-tune a custom ASR model, which was evaluated under different conditions to ensure its reliability and robustness. All project objectives were achieved with the use of **PyTorch**, **HTML**, **CSS** and **Javascript** to implement the web interface and build a backend that allows the third party(banking web page) access to the built speech recognition system.
+- The project made use of the Whisper model to train and fine-tune a custom ASR model, which was evaluated under different conditions to ensure its reliability and robustness.
+- All project objectives were achieved with the use of **PyTorch**, **HTML**, **CSS** and **Javascript** to implement the web interface and build a backend that allows the third party (banking web page) access to the built speech recognition system.
 
 ### Pneumonia-virus Detection and Analysis in Chest X-ray of COVID-19 Images Using Machine Learning Techniques
 
-Developed a **matlab** machine learning model for detecting pneumonia viral in chest X-rays images that includes normal pneumonia cases and viral pneumonia cases. To achieve project objective an image improvement analysis was done. Improving the image contrast and noise reduction with the use of preprocessing techniques such as histogram equalization, anisotropic diffusion filtering, and thresholding using Otsu's method. Support Vector Machine (SVM) model trained and tested at a ratio of 80:20 split data respectively returned an accuracy score of 93.26% showing that it can be reliably tell the difference between normal pneumonia casa and viral pneumonia cases.
+- Developed a **matlab** machine learning model for detecting pneumonia viral in chest X-rays images that includes normal pneumonia cases and viral pneumonia cases.
+- Achieved project objective with the use of image improvement analysis techniques such as image contrast and noise reduction.
+- Preprocessing techniques such as histogram equalization, anisotropic diffusion filtering, and thresholding using Otsu's method were you to preprocess image data.
+- Support Vector Machine (SVM) model trained and tested at a ratio of 80:20 split data respectively returned an accuracy score of 93.26% showing that it can reliably tell the difference between normal pneumonia casa and viral pneumonia cases.
 
 ### Exploratory Data Analysis of Environmental Data from sensor technology
 - Preprocessed the data by removing missing values and Malfunctioning devices.
