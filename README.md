@@ -10,12 +10,12 @@
 - N.D., Metallurgical Engineering | Yaba college of technology (May 2015)
 
 ## Work Experience
-**Founder Zaqverse (_August 2024 - Present_)
+**Founder Zaqverse (_August 2024 - Present_)**
 - Visionary in the development of an accessible online library focused on bridging the gap between novice and professional learners.
 - Maintained content quality and accuracy across all social media platforms in line with the latest blockchain developments.
 - Implemented strategies to improve content awareness by 35%
 
-**Head of Social Media Marketing @ MurthaandBurkeMarketing, United States of America _Remote_ (_May 2019 - June 2022_)
+**Head of Social Media Marketing @ MurthaandBurkeMarketing, United States of America _Remote_ (_May 2019 - June 2022_)**
 - Led digital marketing strategies across various platforms, conducting audits and managing SEO.
 - Managed social media team, communicating and providing skill support to team members.
 - Enhanced social media presence and led the team towards achieving industry high standards.
@@ -28,6 +28,13 @@ The project made use of the Whisper model to train and fine-tune a custom ASR mo
 ### Pneumonia-virus Detection and Analysis in Chest X-ray of COVID-19 Images Using Machine Learning Techniques
 
 Developed a **matlab** machine learning model for detecting pneumonia viral in chest X-rays images that includes normal pneumonia cases and viral pneumonia cases. To achieve project objective an image improvement analysis was done. Improving the image contrast and noise reduction with the use of preprocessing techniques such as histogram equalization, anisotropic diffusion filtering, and thresholding using Otsu's method. Support Vector Machine (SVM) model trained and tested at a ratio of 80:20 split data respectively returned an accuracy score of 93.26% showing that it can be reliably tell the difference between normal pneumonia casa and viral pneumonia cases.
+
+### Exploratory Data Analysis of Environmental Data from sensor technology
+- Preprocessed the data by removing missing values and Malfunctioning devices.
+- Visualed the data to spot trends and relationships with the use of scatterplots and timeplots. Boxplots to identify anomalies.
+- Observation showed a moderate positive correlation between temperature and humidity and a weaker negative correlation with infrared temperature.
+- Exploration addressed variability across device, variability by yearly quarters, hourly variability and relationship between variables.
+
 
 ## Voluntary Service and Awards
 - Power2Inspire - PowerHouseGames - University of Roehampton Games 2023
