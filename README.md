@@ -6,7 +6,7 @@
 
 ## Education
 - M.S., Data Science | University of Roehampton (November 2024)
-- B.S., Statistics | University of illorin (June 2020)
+- B.S., Statistics | University of illorin (June 2021)
 - N.D., Metallurgical Engineering | Yaba college of technology (May 2015)
 
 ## Work Experience
