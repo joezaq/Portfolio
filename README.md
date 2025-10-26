@@ -43,7 +43,7 @@
 
 ## Voluntary Service and Awards
 - Power2Inspire - PowerHouseGames - University of Roehampton Games 2023
-- Best graduating student (2021) - University of Ilorin, Kwara
+- Best graduating student (Statistics, 2021) - University of Ilorin, Kwara
 - Best Graduating Student (Mathematics) - Elias International Secondary School
 
 ## Article and write-ups
